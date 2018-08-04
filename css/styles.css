@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    text-decoration-line: underline;
+    color: midnightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
