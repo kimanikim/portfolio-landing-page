@@ -8,3 +8,13 @@ h1 {
     color: midnightblue;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+h3 {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    float: right;
+}
